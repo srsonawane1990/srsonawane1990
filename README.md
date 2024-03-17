@@ -19,6 +19,9 @@
 
 <p align="left">📫 Linkedin id https://www.linkedin.com/in/swapnil-sonawane-9960070353</p>
 
+<p align="left">📚 I have done my Master's Degree in Engineering from Pune University </p>
+
+
 ###
 
 <h4 align="left">I code with</h4>
