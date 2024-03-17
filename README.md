@@ -10,7 +10,14 @@
 
 ###
 
+
+<p align="left">🔭 I’m currently working on Setting up infra using Terragrunt wrapper with the help of Terraform modules over AWS</p>
+
 <p align="left">📚 I'm currently learning MLOPS, AZURE DEVOPS, GOLANG</p>
+
+<p align="left">📫 You can reach me at srsonawane1990@gmail.com</p>
+
+<p align="left">📫 Linkedin id https://www.linkedin.com/in/swapnil-sonawane-9960070353</p>
 
 ###
 
