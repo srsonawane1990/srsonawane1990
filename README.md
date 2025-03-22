@@ -11,9 +11,9 @@
 ###
 
 
-<p align="left">🔭 I’m currently working on Setting up infra using Terragrunt wrapper with the help of Terraform modules over AWS</p>
+<p align="left">🔭 Results-oriented IT professional with over 9+ years of expertise in DevOps+SRE, Platform Engineering, Cloud Computing, and Infrastructure Configuration Management</p>
 
-<p align="left">📚 I'm currently learning MLOPS, AZURE DEVOPS, GOLANG</p>
+<p align="left">📚 I'm currently learning MLOPS, Google Cloud, AZURE DEVOPS, GOLANG</p>
 
 <p align="left">📫 You can reach me at srsonawane1990@gmail.com</p>
 
